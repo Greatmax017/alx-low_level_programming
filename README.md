@@ -1,1 +1,1 @@
-This repository introduces C programming language
+even more pointers
